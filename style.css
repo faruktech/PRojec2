@@ -1,0 +1,183 @@
+.header-section{}
+.nav{}
+.nav ul {
+    margin-bottom: 0;
+}
+.nav ul li {
+    display: inline-block;
+    padding: 0 14px;
+}
+.nav ul li a {
+    text-decoration: none;
+    color: #000;
+    line-height: 72px;
+}
+
+.logo{}
+.logo img {
+    margin-top: 5px;
+}
+
+.nav2 ul{}
+
+.banner {
+    background: url(Image/_Desktop_Overlay_Covid.jpg) no-repeat center center;
+    background-size: cover;
+    padding: 110px 0;
+    text-align: center;
+    color: #fff;
+    height: 402px;
+}
+.text{}
+.text h3 {
+    font-size: 45px;
+    font-weight: 800;
+    font-family: initial;
+    margin-bottom: 22px;
+}
+.input{}
+.text input {
+    width: 800px;
+    height: 60px;
+    border: none;
+    font-size: 17px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.content-section {
+    background: aliceblue;
+    padding: 43px 0 118px;
+}
+.text{}
+.text h5{}
+
+.box {
+    background: #fff;
+    padding: 14px;
+    margin-top: 35px;
+    box-shadow: 1px 1px 10px 1px rgb(0 0 0 / 24%);
+}
+.box img {
+    width: 307px;
+}
+
+.box-text {}
+.box-text h4 {
+    font-family: "Ivar Headline", "Ivar Headline Subset", "Times New Roman", serif;
+    font-size: 24px;
+    font-weight: 800;
+    padding: 20px 0;
+    margin-bottom: 0;
+}
+.box-text p{}
+.box-text button {
+    font-family: "Open Sans", Tahoma, Geneva, sans-serif;
+    font-size: 16px;
+    border: 1px solid rgb(167, 166, 171);
+    margin: 21px 0px 14px;
+    display: inline-block;
+    width: auto;
+    background: #fff;
+    padding: 9px 20px;
+    cursor: pointer;
+    color: rgb(0, 106, 255);
+    line-height: 22px;
+    border-radius: 3px;
+    transition: all 0.2s ease 0s;
+}
+.box-text button:hover{
+    background: rgb(0, 106, 255);
+    color: #fff;
+}
+
+.box-text button:hover box{
+     background: rgb(0, 106, 255);
+    color: #fff;
+}
+
+.footer-content{}
+.state{}
+.state ul{}
+.state ul li {
+    display: inline-block;
+    padding: 40px 86px;
+    text-align: center;
+}
+.state ul li a {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+}
+.icon {
+    color: #006AFF;
+    font-size: 15px;
+    margin-left: 14px;
+}
+
+.footer-menu{}
+.menu-item{}
+.menu-item ul{}
+.menu-item ul li {
+    display: inline-block;
+}
+.menu-item ul li a {
+    font-size: 13px;
+    padding: 20px 18px;
+    line-height: 40px;
+    color: #000;
+    text-decoration: none;
+}
+.last a{}
+
+.footer-menu li a {
+    list-style: none;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+
+.last-footer{}
+.text-f{}
+.text-f p {
+    font-size: 13px;
+    width: 904px;
+    margin: auto;
+}
+
+.text-f2{}
+.textf2 p {
+    width: 549px;
+    margin: auto;
+    margin-top: 30px;
+    font-size: 11px;
+}
+.imagef img {
+    padding-left: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
